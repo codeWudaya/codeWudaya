@@ -2,10 +2,10 @@
 
 <br/>
 
-<a href="##">
+<a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper">
   <img align="left" alt="Vasanth P LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="##">
+<a href="https://www.instagram.com/udaya.6mp1.14/">
   <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
