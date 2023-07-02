@@ -25,13 +25,12 @@ Hi, I'm Udaya, 🚀 from India. Currently, I'm  learning ML, DL, CV & NLP. Besid
 - 📫 How to reach me: codewudaya@gmail.com
 - 📝[Resume](##)
 
-**Languages and Tools:**  
+**Languages and Tools i am using:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/numpy.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg"></code>
 
 
 ![Vasanth's github stats](https://github-readme-stats.vercel.app/api?username=codewudaya&show_icons=true&hide_border=true)
