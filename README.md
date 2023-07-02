@@ -30,7 +30,9 @@ Hi, I'm Udaya, 🚀 from India. Currently, I'm  learning ML, DL, CV & NLP. Besid
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Natural_Language_Processing_Icon.svg/1200px-Natural_Language_Processing_Icon.svg.png">
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1024px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
 
 
-![Vasanth's github stats](https://github-readme-stats.vercel.app/api?username=codewudaya&show_icons=true&hide_border=true)
+![Udaya's github stats](https://github-readme-stats.vercel.app/api?username=codewudaya&show_icons=true&hide_border=true)
