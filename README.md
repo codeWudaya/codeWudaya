@@ -18,7 +18,7 @@ Hi, I'm Udaya, 🚀 from India. Currently, I'm  learning ML, DL, CV & NLP. Besid
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently learning Machine Learning ,Deep Learning , NLP.
+- 👨🏽‍💻 I’m currently learning Machine Learning ,Deep Learning , NLP using Python.
 - 👯 I’m happy to colloborate with Data Science community🤝
 - 🤔 I’m somewhat fine with Machine Learning
 - 💬 Ask me about anything, I am happy to share my knowledge
