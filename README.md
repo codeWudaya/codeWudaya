@@ -29,7 +29,6 @@ I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm learning ML, DL,
 <code><img height="30" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"></code>
 <code><img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1280px-TensorFlowLogo.svg.png"></code>
-<code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
 <code><img height="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></code>
 <code><img height="30" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 
