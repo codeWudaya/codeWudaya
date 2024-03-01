@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Udayabhanu Nayak</h1>
 <p align="center">
-  Connect with me:
   <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/"/>
   </a>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="udayabhanunayak" height="30" width="40" /></a>
 </p>
 Hi, I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm  learning ML, DL, CV & NLP using Python. Beside's programming, I enjoy watching series and playing games 👌.
 
