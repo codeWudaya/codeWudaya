@@ -6,9 +6,8 @@
 Hi, I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm  learning ML, DL, CV & NLP using Python. Beside's programming, I enjoy watching series and playing games 👌.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="rcodeWudaya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="codeWudaya" /> </p>
 **Talking about Personal Stuffs:**
-![Profile Views](https://komarev.com/ghpvc/?username=codeWudaya)
 - 👨🏽‍💻 I’m currently learning Machine Learning ,Deep Learning , NLP using Python.
 - 👯 I’m happy to colloborate with Data Science community🤝
 - 🤔 I’m somewhat fine with Machine Learning
