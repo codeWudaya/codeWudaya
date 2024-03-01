@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Udayabhanu Nayak</h1>
 <p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/codeWudaya"/>
+  </a>
   <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/"/>
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
