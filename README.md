@@ -7,6 +7,7 @@ Hi, I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm  learning ML
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="rcodeWudaya" /> </p> 
+![Profile Views](https://img.shields.io/endpoint?url=https://your-counter-service.com/count/codeWudaya)
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently learning Machine Learning ,Deep Learning , NLP using Python.
