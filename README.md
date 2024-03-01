@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Udayabhanu Nayak</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/"/>
   </a>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -31,7 +35,6 @@ I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm learning ML, DL,
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1280px-TensorFlowLogo.svg.png"></code>
 <code><img height="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></code>
 <code><img height="30" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
-
 
 ---
 
