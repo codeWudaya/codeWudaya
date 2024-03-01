@@ -1,17 +1,14 @@
 ### Hey 👋🏽, I'm Udaya 🤞
+### Connect with me :
 <br/>
-
 <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper">
-  <img align="left" alt="Vasanth P LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/codeXudaya/">
-  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="rcodeWudaya" /> </p>
 <br />
 
-Hi, I'm Udaya, 🚀 from India. Currently, I'm  learning ML, DL, CV & NLP. Beside's programming, I enjoy watching series and playing games 👌.
+Hi, I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm  learning ML, DL, CV & NLP using Python. Beside's programming, I enjoy watching series and playing games 👌.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
