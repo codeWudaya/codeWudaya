@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Udaya 🤞
+<h1 align="center">Hi 👋, I'm Udayabhanu Nayak</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="udayabhanunayak" height="30" width="40" /></a>
