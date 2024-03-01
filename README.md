@@ -3,14 +3,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="udayabhanunayak" height="30" width="40" /></a>
 </p>
-<br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="rcodeWudaya" /> </p>
-<br />
-
 Hi, I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm  learning ML, DL, CV & NLP using Python. Beside's programming, I enjoy watching series and playing games 👌.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="rcodeWudaya" /> </p> 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently learning Machine Learning ,Deep Learning , NLP using Python.
