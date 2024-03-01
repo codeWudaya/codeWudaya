@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm Udaya 🤞
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="rcodeWudaya" /> </p>
 <br/>
 
 <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper">
