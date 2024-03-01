@@ -1,5 +1,4 @@
 ### Hey 👋🏽, I'm Udaya 🤞
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="rcodeWudaya" /> </p>
 <br/>
 
 <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper">
@@ -8,8 +7,8 @@
 <a href="https://www.instagram.com/codeXudaya/">
   <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="rcodeWudaya" /> </p>
 <br />
 
 Hi, I'm Udaya, 🚀 from India. Currently, I'm  learning ML, DL, CV & NLP. Beside's programming, I enjoy watching series and playing games 👌.
