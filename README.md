@@ -30,12 +30,14 @@ I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm learning ML, DL,
 
 **Languages and Tools I am using:**  
 
+**Languages and Tools I am using:**  
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"></code>
 <code><img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="30" src="https://logos-download.com/wp-content/uploads/2016/09/MySQL_logo_logotype_text.png"></code>
-<code><img height="30" src="https://www.tensorflow.org/images/tf_logo_social.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1280px-TensorFlowLogo.svg.png"></code>
 <code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
 <code><img height="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></code>
 <code><img height="30" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
