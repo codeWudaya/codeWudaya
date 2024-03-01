@@ -24,10 +24,18 @@ I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm learning ML, DL,
 
 **Languages and Tools I am using:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
+**Languages and Tools I am using:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/349c97a9d0e1c2c3a1b6a64e56d451120e26900f/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/5a3b93ed3b3b0ea7db8e305d77ea78a2ad7fe453/topics/vscode/vscode.png"></code>
+<code><img height="30" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"></code>
+<code><img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="30" src="https://logos-download.com/wp-content/uploads/2016/09/MySQL_logo_logotype_text.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1280px-TensorFlowLogo.svg.png"></code>
+<code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
+<code><img height="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></code>
+<code><img height="30" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
+<code><img height="30" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 
 ---
 
