@@ -24,7 +24,7 @@ I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm learning ML, DL,
 - 🤔 I’m somewhat fine with Machine Learning
 - 💬 Ask me about anything, I am happy to share my knowledge
 - 📫 How to reach me: codewudaya@gmail.com
-- 📝 [Resume](##)
+- 📝 [Resume](https://drive.google.com/file/d/1RO84-fpFsejnxric7dqF_BbayRVyz3NQ/view?usp=sharing)
 
 **Languages and Tools I am using:**  
 
