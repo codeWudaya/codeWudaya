@@ -8,22 +8,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+### *** Pythonista *** | ***Machine Learning and Data Science Practitioner*** 
 
-<p align="center">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</p>
+👩🏻‍💻 As a student I am eager to gain a deeper understanding of the data lifecycle with a range of tools and techniques, *distilling down data for actionable takeaways* using **Machine Learning, NLP, deep Learning, openCV  and Attention to Details** to make recommendations across different business groups. 
 
-### Hi there 👋
-
-I'm Udaya, 🚀 from Bhubaneswar, Odisha, India. Currently, I'm learning ML, DL, CV & NLP using Python. Besides programming, I enjoy watching series and playing games 👌.
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently learning Machine Learning, Deep Learning, NLP using Python.
-- 👯 I’m happy to collaborate with the Data Science community 🤝
-- 🤔 I’m somewhat fine with Machine Learning
-- 💬 Ask me about anything, I am happy to share my knowledge
-- 📫 How to reach me: codewudaya@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1RO84-fpFsejnxric7dqF_BbayRVyz3NQ/view?usp=sharing)
 
 # 💻 Tech Stack:
