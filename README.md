@@ -20,4 +20,7 @@
 ---
 
 ![Udaya's Stats](https://github-readme-stats.vercel.app/api?username=codewudaya&theme=react&show_icons=true&hide_border=false&count_private=true)
-![Nikita Prasad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewudaya&theme=react&show_icons=true&hide_border=false&hide_progress=true)
+![Udaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewudaya&theme=react&show_icons=true&hide_border=false&hide_progress=true)
+
+# 📑 My Latest Blog Post:
+* [Medium](https://medium.com/@udayabhanu0314)
