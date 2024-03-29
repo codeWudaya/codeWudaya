@@ -11,6 +11,12 @@
 <h3><em>Pythonista</em> | <em>Machine Learning and Data Science Practitioner</em></h3>
 <p>👩🏻‍💻 As a student, I'm eager to gain a deeper understanding of the data lifecycle using a range of tools and techniques, distilling down data for actionable takeaways using Machine Learning, NLP, Deep Learning, OpenCV, and Attention to Detail to make recommendations across different business groups.</p>
 <h4>Over 2 Million Post Views on My Coding ML Contents</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/"/>
+  </a>
+</p>
+
 
 - 📝 [Resume](https://drive.google.com/file/d/1RO84-fpFsejnxric7dqF_BbayRVyz3NQ/view?usp=sharing)
 
