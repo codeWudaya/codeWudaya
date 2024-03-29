@@ -10,7 +10,7 @@
 </p>
 ### *** Pythonista *** | ***Machine Learning and Data Science Practitioner*** 
 
-👩🏻‍💻 As a student I am eager to gain a deeper understanding of the data lifecycle with a range of tools and techniques, *distilling down data for actionable takeaways* using **Machine Learning, NLP, deep Learning, openCV  and Attention to Details** to make recommendations across different business groups. 
+👩🏻‍💻 As a student, I'm eager to gain a deeper understanding of the data lifecycle using a range of tools and techniques, *distilling down data for actionable takeaways* using **Machine Learning, NLP, Deep Learning, OpenCV, and Attention to Detail** to make recommendations across different business groups. 
 
 - 📝 [Resume](https://drive.google.com/file/d/1RO84-fpFsejnxric7dqF_BbayRVyz3NQ/view?usp=sharing)
 
