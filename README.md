@@ -8,9 +8,9 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-### *** Pythonista *** | ***Machine Learning and Data Science Practitioner*** 
+<h3><em>Pythonista</em> | <em>Machine Learning and Data Science Practitioner</em></h3>
+<p>👩🏻‍💻 As a student, I'm eager to gain a deeper understanding of the data lifecycle using a range of tools and techniques, distilling down data for actionable takeaways using Machine Learning, NLP, Deep Learning, OpenCV, and Attention to Detail to make recommendations across different business groups.</p>
 
-👩🏻‍💻 As a student, I'm eager to gain a deeper understanding of the data lifecycle using a range of tools and techniques, *distilling down data for actionable takeaways* using **Machine Learning, NLP, Deep Learning, OpenCV, and Attention to Detail** to make recommendations across different business groups. 
 
 - 📝 [Resume](https://drive.google.com/file/d/1RO84-fpFsejnxric7dqF_BbayRVyz3NQ/view?usp=sharing)
 
