@@ -11,7 +11,7 @@
 <h3><em>Pythonista</em> | <em>Machine Learning and Data Science Practitioner</em></h3>
 <p>👩🏻‍💻 As a student, I'm eager to gain a deeper understanding of the data lifecycle using a range of tools and techniques, distilling down data for actionable takeaways using Machine Learning, NLP, Deep Learning, OpenCV, and Attention to Detail to make recommendations across different business groups.</p>
 <h4>Over 2 Million Post Views on My Coding ML Contents on LinkedIn</h4>
-<h4>Over 🏆Top Data Science Voice ✨ on LinkedIn</h4>
+<h4>🏆Top Data Science Voice ✨ on LinkedIn</h4>
 
 - 📝 [Resume](https://drive.google.com/file/d/1RO84-fpFsejnxric7dqF_BbayRVyz3NQ/view?usp=sharing)
 
