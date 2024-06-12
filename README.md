@@ -11,7 +11,8 @@
 <h4>Over 2 Million Post Views on My Coding ML Contents on LinkedIn</h4>
 <h4>🏆Top Data Science Voice ✨ on LinkedIn</h4>
 
-- 📝 [Resume](https://drive.google.com/file/d/1RO84-fpFsejnxric7dqF_BbayRVyz3NQ/view?usp=sharing](https://drive.google.com/file/d/1m6ZSRHPZgfdnHRlrcD98-GUNrHllNQpT/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1m6ZSRHPZgfdnHRlrcD98-GUNrHllNQpT/view?usp=sharing)
+
 
 ![Udaya's Stats](https://github-readme-stats.vercel.app/api?username=codewudaya&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![Udaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewudaya&theme=react&show_icons=true&hide_border=false&hide_progress=true)
