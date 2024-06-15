@@ -8,7 +8,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=codeWudaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<h4>Over 2 Million Post Views on My Coding ML Contents on LinkedIn</h4>
+<h4>Over 3 Million Post Views on My Coding ML Contents on LinkedIn</h4>
 <h4>🏆Top Data Science Voice ✨ on LinkedIn</h4>
 
 - 📝 [Resume](https://drive.google.com/file/d/1m6ZSRHPZgfdnHRlrcD98-GUNrHllNQpT/view?usp=sharing)
