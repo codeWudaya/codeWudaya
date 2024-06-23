@@ -18,7 +18,6 @@
 - 📝 [Resume](https://drive.google.com/file/d/1m6ZSRHPZgfdnHRlrcD98-GUNrHllNQpT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/" target="_blank">
