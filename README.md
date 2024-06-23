@@ -8,7 +8,7 @@
   </a>
 </p> -->
 <h4>Over 3 Million Post Views on My Coding ML Contents on LinkedIn</h4>
-<h4>🏆Top Data Science Voice ✨ on LinkedIn</h4>
+<h4>🏆Top Data Science X Machine Learning Voice ✨ on LinkedIn</h4>
 
 - 📝 [Resume](https://drive.google.com/file/d/1m6ZSRHPZgfdnHRlrcD98-GUNrHllNQpT/view?usp=sharing)
 
