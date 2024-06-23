@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewudaya&show_icons=true&locale=en" alt="codewudaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewudaya&" alt="codewudaya" /></p>
+
+# 📑 My Latest Blog Post:
+* [Medium](https://medium.com/@udayabhanu0314)
