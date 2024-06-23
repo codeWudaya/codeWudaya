@@ -2,11 +2,11 @@
 <h3 align="center">Business Intelligence | Data Analytics | Machine Learning and Data Science Practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewudaya&label=Profile%20views&color=0e75b6&style=flat" alt="codewudaya" /> </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/udayabhanu-nayak-ml-devloper/"/>
   </a>
-</p>
+</p> -->
 <h4>Over 3 Million Post Views on My Coding ML Contents on LinkedIn</h4>
 <h4>🏆Top Data Science Voice ✨ on LinkedIn</h4>
 
