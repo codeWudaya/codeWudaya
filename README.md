@@ -10,13 +10,12 @@
 <h4>Over 3 Million Post Views on My Coding ML Contents on LinkedIn</h4>
 <h4>🏆Top Data Science X Machine Learning Voice ✨ on LinkedIn</h4>
 
-- 📝 [Resume](https://drive.google.com/file/d/1m6ZSRHPZgfdnHRlrcD98-GUNrHllNQpT/view?usp=sharing)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewudaya" alt="codewudaya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - ⚡ Fun fact **I Think I Am Funny**
+- 📝 [Resume](https://drive.google.com/file/d/1m6ZSRHPZgfdnHRlrcD98-GUNrHllNQpT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
