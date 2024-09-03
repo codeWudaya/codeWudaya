@@ -41,7 +41,7 @@
   
 </div>
 
-## Languages and Tools i am familar with
+## Languages 🤖
 
 | Python | Android | C++ | C# | Java | C | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -50,27 +50,27 @@
 
 ## Libraries & Tools of Python, that I am aware with...👇
 
-#### For Data handling, visualization and Image processing
+#### For Data handling, visualization and Image processing 💥
 | Pandas | Numpy | PIL | Matplotlib | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
-#### For Machine Learning, Deep learning & Computer Vision
+#### For Machine Learning, Deep learning & Computer Vision 👁️
 | Keras | SKLearn | Tensorflow | PyTorch | OpenCV(CV2) |
 | :---: | :---: | :---: | :---: | :---: |
 
-#### For Web Development & WebScraping
+#### For Web Development & WebScraping 🕸️
 | Flask | StreamLit | BS4 | Requests | Selenium |
 | :---: | :---: | :---: | :---: | :---: |
 
-#### IDEs that I am aware with 
+#### IDEs that I am aware with 🖥️
 | Pycharm | Spyder | Google Colab | Jupyter Notebook | VSCode | Kaggle
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
-#### Cloud Technologies
+#### Cloud Technologies 🌨️
  | AWS | OpenStack
  | :---: | :---: 
  
- #### AWS Stack
+ #### AWS Stack 🛒
  | Sagemaker | EC2 | Lambda | EC2 | VPC | DynamoDB | RDS | S3, EBS, EFS | Many more ...
  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 <h3 align="left">Support:</h3>
