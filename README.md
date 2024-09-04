@@ -52,7 +52,7 @@
 
 #### For Data handling, visualization and Image processing 💥
 | Pandas | Numpy | PIL | Matplotlib | Numpy | Seaborn |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 #### For Machine Learning, Deep learning & Computer Vision 👁️
 | Keras | SKLearn | Tensorflow | PyTorch | OpenCV(CV2) |
