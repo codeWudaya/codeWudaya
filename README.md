@@ -43,7 +43,7 @@
 
 ## Languages 🤖
 
-| Python | Android | C++ | C# | Java | C | 
+| Python | C# | Java | C | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 #### Apart from all these, I am Pythonist🐍
@@ -51,7 +51,7 @@
 ## Libraries & Tools of Python, that I am aware with...👇
 
 #### For Data handling, visualization and Image processing 💥
-| Pandas | Numpy | PIL | Matplotlib | Numpy |
+| Pandas | Numpy | PIL | Matplotlib | Numpy | Seaborn |
 | :---: | :---: | :---: | :---: | :---: |
 
 #### For Machine Learning, Deep learning & Computer Vision 👁️
