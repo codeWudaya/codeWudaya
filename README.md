@@ -44,7 +44,7 @@
 ## Languages 🤖
 
 | Python | C# | Java | C | 
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 
 #### Apart from all these, I am Pythonist🐍
 
@@ -71,8 +71,8 @@
  | :---: | :---: 
  
  #### AWS Stack 🛒
- | Sagemaker | EC2 | Lambda | EC2 | VPC | DynamoDB | RDS | S3, EBS, EFS | Many more ...
- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+ | Sagemaker | Lambda | EC2 | VPC | DynamoDB | RDS | S3, EBS, EFS | Many more ...
+ | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codewudaya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codewudaya" /></a></p><br><br>
 
