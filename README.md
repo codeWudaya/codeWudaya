@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udaya</h1>
 <h3 align="center">Business Intelligence | Data Analytics | Machine Learning and Data Science Practitioner</h3>
-<h4>Freelance: 🚀 Proud to have delivered 3 client projects in the realms of Business Intelligence, Data, Machine Learning, and Generative AI! 💼✨ For collaborations, reach out at codewudaya@gmail.com.</h4>
+<h4>Freelance: 🚀 Delivered 3 client projects in the realms of AI, Machine Learning, Data and Generative AI! 💼✨ For collaborations, reach out at 📩 codewudaya@gmail.com.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewudaya&label=Profile%20views&color=0e75b6&style=flat" alt="codewudaya" /> </p>
 <!-- <p align="center">
